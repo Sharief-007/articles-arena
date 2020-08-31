@@ -1,0 +1,16 @@
+.profile-div {
+    padding-top: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.profile-picture {
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+}
+
+.h3-username {
+    margin: 10px;
+}

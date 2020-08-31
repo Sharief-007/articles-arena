@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<articles-arena>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "app.articles.arena.Application",
+            "projectName": "articles-arena",
+            "args": ""
+        }
+    ]
+}
